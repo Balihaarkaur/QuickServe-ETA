@@ -1,4 +1,4 @@
-Food Delivery Time Prediction 🛵
+QuickServe ETA-🛵
 
 A machine learning project to predict food delivery times based on order data, improving customer experience and logistics.
 
